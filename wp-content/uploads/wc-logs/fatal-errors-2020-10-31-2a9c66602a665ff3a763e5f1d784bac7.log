@@ -4,3 +4,9 @@
 
 2020-10-31T18:43:29+00:00 CRITICAL Maximum execution time of 30 seconds exceeded en C:\xampp\htdocs\clon_rbg\wp-content\plugins\elementor\modules\system-info\module.php en la línea 8
 
+2020-10-31T19:17:01+00:00 CRITICAL Maximum execution time of 30 seconds exceeded en C:\xampp\htdocs\clon_rbg\wp-includes\class-wp-image-editor-gd.php en la línea 191
+
+2020-10-31T19:17:43+00:00 CRITICAL Maximum execution time of 30 seconds exceeded en C:\xampp\htdocs\clon_rbg\wp-includes\class-wp-image-editor-gd.php en la línea 191
+
+2020-10-31T19:19:49+00:00 CRITICAL Maximum execution time of 30 seconds exceeded en C:\xampp\htdocs\clon_rbg\wp-includes\class-wp-image-editor-gd.php en la línea 191
+
