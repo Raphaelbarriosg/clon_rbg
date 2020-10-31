@@ -1,0 +1,6 @@
+2020-10-31T15:08:49+00:00 CRITICAL Maximum execution time of 30 seconds exceeded en C:\xampp\htdocs\clon_rbg\wp-content\plugins\woocommerce\packages\woocommerce-admin\src\Notes\NoteTraits.php en la línea 10
+
+2020-10-31T15:09:27+00:00 CRITICAL Maximum execution time of 30 seconds exceeded en C:\xampp\htdocs\clon_rbg\wp-content\plugins\booking\core\wpbc-functions.php en la línea 574
+
+2020-10-31T18:43:29+00:00 CRITICAL Maximum execution time of 30 seconds exceeded en C:\xampp\htdocs\clon_rbg\wp-content\plugins\elementor\modules\system-info\module.php en la línea 8
+
